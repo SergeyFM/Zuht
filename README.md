@@ -1,5 +1,7 @@
 # Zuht
 
+<img src="img/zuht_logo.png" alt="Zuht logo" width="280">
+
 <sub>Pronounced /tsʊxt/. That’s how I say it, but you’re free to pronounce it your own way.</sub>
 
 Zuht is a personal software factory I’m developing to help manage scope and complexity in software development. It is currently under development.
